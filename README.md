@@ -14,4 +14,4 @@ Data from the sm1 experiment in [Sheth et al](https://www.nature.com/articles/s4
 ```basic_GMM_EM.py``` contains an implemention of a standard Expectation Maximization (EM) algorithm for parameter inference in a naive GMM. ```EM_intercept_inference.py``` and ```EM_twodirection_inference.py``` contains the EM algorithms for the single- and two-directional GMMs respectively. Mathematical proofs of the accuracy of our algorithms can be provided upon request. 
 
 # Model selection
-```model_selection_sm1.py``` provides an implemention for loading the filtered sm1 data and finding the best fitted model. 
+```model_selection_sm1.py``` provides an implemention for loading the filtered sm1 data and finding the best fitted model. We have provided the model selection results for the Cecum dataset. 
